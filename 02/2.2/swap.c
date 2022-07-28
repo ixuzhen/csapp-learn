@@ -14,12 +14,4 @@ void reverse_array(int a[], int cnt){
     }
 }
 
-int bis(int x, int m){
-
-}
-
-int bic(int x, int m){
-    
-}
-
 
