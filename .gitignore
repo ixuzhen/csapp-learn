@@ -3,4 +3,5 @@
 *.pc
 ex1/*
 !ex1/bits.c
-
+*.s
+*.o
