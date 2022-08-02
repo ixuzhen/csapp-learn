@@ -1,5 +1,6 @@
 .vscode/
 *.exe
 *.pc
-!/ex1/bits.c
-/ex1/
+ex1/*
+!ex1/bits.c
+
